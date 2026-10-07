@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.artikel {
+  max-width: 800px;
+  margin: auto;
+  background-color: white;
+  padding: 25px;
+}
+
+h1 {
+  color: #b34700;
+  font-size: 28px;
+}
+
+h2 {
+  color: #333;
+  font-size: 20px;
+}
+
+.info {
+  color: gray;
+  font-size: 14px;
+}
+
+img {
+  width: 100%;
+  margin: 15px 0 5px 0;
+}
+
+.keterangan {
+  font-size: 13px;
+  font-style: italic;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+p, li {
+  line-height: 1.7;
+  font-size: 16px;
+}
